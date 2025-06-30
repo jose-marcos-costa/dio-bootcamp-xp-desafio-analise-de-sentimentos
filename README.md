@@ -15,9 +15,9 @@ Baseado no exemplo:
 
 ---
 
-Classificação do texto.
-Metrificação a partir do texto.
-Resposta a perguntas
+- Classificação do texto.
+- Metrificação a partir do texto.
+- Resposta a perguntas
 
 ---
 ## Serviço de bot Azure
@@ -33,7 +33,36 @@ Resposta a perguntas
 - Enunciado
 - Intenção
 
-Linguagem do dia-a-dia.
-Reconhecimento de voz.
-Síntese de fala.
+---
+- Linguagem do dia-a-dia.
+- Reconhecimento de voz.
+- Síntese de fala.
 
+---
+## Links úteis
+
+Aqui estão os dois links presentes na imagem:
+
+[1](https://aka.ms/ai900-speech)
+[2](https://aka.ms/ai900-text-analysis)
+
+---
+## Conhecendo o estúdio de fala (Speech Studio)
+
+- Pega um arquivo de áudio e transcreve.
+
+- Aplicações
+  - Legendar com conversão de fala em texto.
+  - Transcrever e analisar ligações de call center com o Fala e Idioma do Azure.
+
+---
+## Conhecendo o Language Studio
+
+- Escolha do idioma.
+- Análise de sentenças (Particionamento das sentenças).
+    - Análise de sentimentos.
+
+---
+  
+
+  
