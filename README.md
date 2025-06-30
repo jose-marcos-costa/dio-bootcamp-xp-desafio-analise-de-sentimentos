@@ -93,5 +93,3 @@ O **Language Studio** também permite que você:
 Tudo isso com uma interface gráfica intuitiva, facilitando testes rápidos e a prototipação de soluções baseadas em linguagem.
 
 ---
-
-Se quiser, posso converter isso também em um PDF bem formatado ou em uma apresentação. Deseja?
